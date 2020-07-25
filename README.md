@@ -1,4 +1,4 @@
-# Java-Graph-Algorithms-Visualizer
+# Java Graph Algorithms Visualizer
 *[Ray Jasson](mailto:holmesqueen2070@yahoo.com)*<br>
 *26/07/2020*<br>
 
