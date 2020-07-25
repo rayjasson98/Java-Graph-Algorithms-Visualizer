@@ -1,0 +1,44 @@
+/*
+STYLESHEET FOR MENU
+*/
+
+.menu {
+    -fx-background-color: #F4FFFB;
+}
+
+.function-button {
+    -fx-pref-height: 60px;
+    -fx-pref-width: 270px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+    -fx-font: bolder 14pt "Lato Black";
+    -fx-background-radius: 16px;
+    -fx-background-color: linear-gradient(#465cd5 0%, #270ac1 25%, #270ac1 75%, #465cd5 100%);
+    -fx-text-fill: white;
+}
+
+.add-vertex-button {
+    -fx-pref-height: 60px;
+    -fx-pref-width: 270px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+    -fx-font: bolder 14pt "Lato Black";
+    -fx-background-radius: 16px;
+    -fx-background-color: linear-gradient(#00ba23 0%, #1ea100 25%, #1ea100 75%, #00ba23 100%);
+    -fx-text-fill: white;
+}
+
+.reset-button {
+    -fx-pref-height: 60px;
+    -fx-pref-width: 270px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+    -fx-font: bolder 14pt "Lato Black";
+    -fx-background-radius: 16px;
+    -fx-background-color: linear-gradient(#fd5a5a 0%, #ff0000 25%, #ff0000 75%, #fd5a5a 100%);
+    -fx-text-fill: white;
+}
+
+.status-box {
+    -fx-font: bold 14pt "arial";
+}
