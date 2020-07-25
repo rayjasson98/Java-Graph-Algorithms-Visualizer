@@ -49,7 +49,7 @@ The visualizer has 5 functions:
 [Tarjan's algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm) is used to determine whether the directed graph is strongly connected by finding the strongly connected components (SCCs) of the graph. The implementation of Tarjan's algorithm is as follows:
 
 - **If the graph is strongly connected**<br>
-Print the resulting graph
+Print the resulting strongly-connected graph
 - **Else**<br>
 Generate random edges between vertices until the graph is strongly connected
 
@@ -81,7 +81,7 @@ Refer to [CycleDetection.java](/src/graphvisualizer/graphalgorithms/CycleDetecti
 [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is used to determine the shortest path between two end vertices in the graph. You can select a start vertex and an end vertex of the shortest path by double-clicking the vertices. The selected end vertices are shown in yellow. The implementation of Dijkstra's algorithm is as follows:
 
 - **If there is a path between the start vertex and the end vertex**<br>
-Print the shortest path between the end vertices
+Print the shortest path between the end vertices and the path cost
 - **Else**<br>
 Generate random edges between vertices until a path is formed between the end vertices
 
