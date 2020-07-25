@@ -22,7 +22,7 @@ This visualizer is developed using [JavaFX SmartGraph library](https://github.co
 
 The data structure for graph is represented using an adjacency map. The adjacency map has a primary and a secondary structure. In the primary structure represented by the hash-based map, the names or IDs of vertices serve as keys and the associated vertices as values. The secondary structure maintains the incidence collection of the edges using two different map references: an *Outgoing Edges* hash-based map and an *Incoming Edges* hash-based map. In both hash-based maps, the opposite end vertices serve as the keys and the edges serve as the values.
 
-<p align="center"><img src="/docs/pics/AdjacencyMap.png" width=75% height=75%></p>
+<p align="center"><img src="/docs/pics/AdjacencyMap.png" width=85% height=85%></p>
 <p align="center"><i>Schematic Representation of an Adjacency Map</i></p>
 
 Refer to [AdjacencyMapDigraph.java](/src/graphvisualizer/graph/AdjacencyMapDigraph.java) for more details.
