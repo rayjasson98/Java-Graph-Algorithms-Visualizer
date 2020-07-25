@@ -16,11 +16,13 @@ This visualizer is developed using [JavaFX SmartGraph library](https://github.co
 
 :unlock: ***The visualizer was implemented in Java 8 which includes JavaFX as bundle.***
 
+<br>
+
 ## :speech_balloon: Graph Representation in Java
 
 The data structure for graph is represented using an adjacency map. The adjacency map has a primary and a secondary structure. In the primary structure represented by the hash-based map, the names or IDs of vertices serve as keys and the associated vertices as values. The secondary structure maintains the incidence collection of the edges using two different map references: an *Outgoing Edges* hash-based map and an *Incoming Edges* hash-based map. In both hash-based maps, the opposite end vertices serve as the keys and the edges serve as the values.
 
-<p align="center"><img src="/docs/pics/AdjacencyMap.png"></p>
+<p align="center"><img src="/docs/pics/AdjacencyMap.png" width=75% height=75%></p>
 <p align="center"><i>Schematic Representation of an Adjacency Map</i></p>
 
 Refer to [AdjacencyMapDigraph.java](/src/graphvisualizer/graph/AdjacencyMapDigraph.java) for more details.
@@ -94,8 +96,8 @@ Refer to [ShortestPath.java](/src/graphvisualizer/graphalgorithms/ShortestPath.j
 
 - You can add up to maximum 5 additional vertices to the graph for testing and viewing the solution of the algorithms.
 
-<p align="center"><img src="/docs/gifs/Add.png"></p>
-<p align="center"><i>An example of adding 2 additional vertices to the graph</i></p>
+<p align="center"><img src="/docs/gifs/Add.gif"></p>
+<p align="center"><i>An example of adding 2 additional vertices to the graph, and performing strong connectivity algorithm</i></p>
 
 - You can reset the graph to its default state.
 
