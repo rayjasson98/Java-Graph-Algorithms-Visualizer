@@ -105,7 +105,7 @@ Refer to [Main.java](/src/graphvisualizer/graphalgorithms/Main.java) for more de
 
 <br>
 
-## :black_nib: Reference
+## :black_nib: References
 
 - Cormen, T. H., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd ed.). Cambridge, Massachusetts, United States of America: MIT Press.
 - Goodrich, M. T., & Tamassia, R. (2014). Data Structures and Algorithms in Java (6th ed.). New Jersey: John Wiley.
