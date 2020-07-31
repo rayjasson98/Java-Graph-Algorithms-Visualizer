@@ -60,7 +60,7 @@ Generate random edges between vertices until the graph is strongly connected
 <p align="center"><img src="./gifs/StrongConnectivity.gif"></p>
 <p align="center"><i>Random edges are generated until the graph is strongly connected</i></p>
 
-Refer to [StrongConnectivity.java](/src/graphvisualizer/graphalgorithms/StrongConnectivity.java) for more details.
+Refer to [StrongConnectivity.java](../src/graphvisualizer/graphalgorithms/StrongConnectivity.java) for more details.
 
 <br>
 
