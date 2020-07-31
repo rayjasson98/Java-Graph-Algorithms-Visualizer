@@ -60,7 +60,7 @@ Generate random edges between vertices until the graph is strongly connected
 <p align="center"><img src="./gifs/StrongConnectivity.gif"></p>
 <p align="center"><i>Random edges are generated until the graph is strongly connected</i></p>
 
-Refer to [StrongConnectivity.java](../src/graphvisualizer/graphalgorithms/StrongConnectivity.java) for more details.
+Refer to [StrongConnectivity.java](https://github.com/rayjasson98/Java-Graph-Algorithms-Visualizer/blob/master/src/graphvisualizer/graphalgorithms/StrongConnectivity.java) for more details.
 
 <br>
 
@@ -76,7 +76,7 @@ Generate random edges between vertices until the graph has a cycle
 <p align="center"><img src="./gifs/CycleDetection.gif"></p>
 <p align="center"><i>Random edges are generated until the graph has a cycle</i></p>
 
-Refer to [CycleDetection.java](/src/graphvisualizer/graphalgorithms/CycleDetection.java) for more details.
+Refer to [CycleDetection.java](https://github.com/rayjasson98/Java-Graph-Algorithms-Visualizer/blob/master/src/graphvisualizer/graphalgorithms/CycleDetection.java) for more details.
 
 <br>
 
@@ -92,7 +92,7 @@ Generate random edges between vertices until a path is formed between the end ve
 <p align="center"><img src="./gifs/ShortestPath.gif"></p>
 <p align="center"><i>Random edges are generated until the graph has a path between two end vertices</i></p>
 
-Refer to [ShortestPath.java](/src/graphvisualizer/graphalgorithms/ShortestPath.java) for more details.
+Refer to [ShortestPath.java](https://github.com/rayjasson98/Java-Graph-Algorithms-Visualizer/blob/master/src/graphvisualizer/graphalgorithms/ShortestPath.java) for more details.
 
 <br>
 
@@ -105,7 +105,7 @@ Refer to [ShortestPath.java](/src/graphvisualizer/graphalgorithms/ShortestPath.j
 
 - You can reset the graph to its default state.
 
-Refer to [Main.java](/src/graphvisualizer/graphalgorithms/Main.java) for more details.
+Refer to [Main.java](https://github.com/rayjasson98/Java-Graph-Algorithms-Visualizer/blob/master/src/graphvisualizer/graphalgorithms/Main.java) for more details.
 
 <br>
 
