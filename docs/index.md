@@ -29,7 +29,7 @@ The data structure for graph is represented using an adjacency map. The adjacenc
 <p align="center"><img src="./pics/AdjacencyMap.png"></p>
 <p align="center"><i>Schematic Representation of an Adjacency Map</i></p>
 
-Refer to [AdjacencyMapDigraph.java](/src/graphvisualizer/graph/AdjacencyMapDigraph.java) for more details.
+Refer to [AdjacencyMapDigraph.java](https://github.com/rayjasson98/Java-Graph-Algorithms-Visualizer/blob/master/src/graphvisualizer/graph/AdjacencyMapDigraph.java) for more details.
 
 <br>
 
